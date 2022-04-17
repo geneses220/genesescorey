@@ -39,6 +39,17 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/salopete-4-.png"
+        },
+        {
+          "img": "/img/uploads/salopete-2-.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/salopete-1-.png"
         },
         {
