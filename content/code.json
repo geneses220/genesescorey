@@ -1,5 +1,5 @@
 {
-  "css": "<body id: \"page-home\" class=\"__index\":>\n  <article id:\"contet\" class=\"page page--home\">\n<div class=\"banners-grid my-3 my-md-4 my-lg-5\"><div class=\"container\"><div class=\"row\"><div class=\"col-6 col-lg-6 mb-3 mb-lg-0\"><div class=\"banner\"><a href=\"javascript:;\" aria-label=\"\" style=\"min-height: 285.333px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/salopete-4-.png\" data-alt=\"\" data-width=\"1080\" data-height=\"1080\" data-loaded=\"true\"><source srcset=\"/img/uploads/salopete-4-.png\" media=\"\"><img></picture></a></div></div><div class=\"col-6 col-lg-6 mb-3 mb-lg-0\"><div class=\"banner\"><a href=\"javascript:;\" aria-label=\"\" style=\"min-height: 285.333px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/salopete-2-.png\" data-alt=\"\" data-width=\"1080\" data-height=\"1080\" data-loaded=\"true\"><source srcset=\"/img/uploads/salopete-2-.png\" media=\"\"><img></picture></a></div></div></div></div></div>\n  \n  <article/>\n  <body/>",
+  "css": "",
   "html_head": "",
   "html_body": ""
 }
